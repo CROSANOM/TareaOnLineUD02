@@ -11,7 +11,8 @@ public class saluda {
 		System.out.println("Hola como te llamas, introduce tu nombre humana");
 		nombre=sc.nextLine();
 		System.out.println("Buenos dias:"+" "+ nombre);
-		
+		System.out.println("Buenos ncegs:"+" "+ nombre);
+		System.out.println("Buenos ncegs:"+" "+ nombre);
 		// TODO Auto-generated method stub
 		
 	}
