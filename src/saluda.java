@@ -13,6 +13,7 @@ public class saluda {
 		System.out.println("Buenos dias:"+" "+ nombre);
 		System.out.println("Buenos ncegs:"+" "+ nombre);
 		System.out.println("Buenos ncegs:"+" "+ nombre);
+		System.out.println("Buenos dias:"+" "+ nombre);
 		// TODO Auto-generated method stub
 		
 	}
