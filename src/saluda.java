@@ -12,15 +12,8 @@ public class saluda {
 		System.out.println("Hola como te llamas, introduce tu nombre humana");
 		nombre=sc.nextLine();
 		System.out.println("Buenos dias:"+" "+ nombre);
-<<<<<<< HEAD
-		System.out.println("Buenos ncegs:"+" "+ nombre);
-		System.out.println("Buenos ncegs:"+" "+ nombre);
-=======
-		System.out.println("Hola como te llamas, introduce tu nombre humana");
-		nombre=sc.nextLine();
->>>>>>> branch 'POO' of https://github.com/CROSANOM/TareaOnLineUD02.git
-		System.out.println("Buenos dias:"+" "+ nombre);
-		// TODO Auto-generated method stub
+		
+
 
 	}
 }
